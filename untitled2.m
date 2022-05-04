@@ -5,7 +5,7 @@ classdef untitled2
     properties
         Property1
     end
-    
+    uyfufilgg
     methods
         function obj = untitled2(inputArg1,inputArg2)
             %UNTITLED2 Construct an instance of this class
